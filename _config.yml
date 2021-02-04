@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Talk is cheap,Show me the girl.
+subtitle: '一个二货程序员的小站'
+description: '出生不及赵甲第，努力应过陈浮生'
 keywords:
-author: John Doe
+author: itgoyo
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://itgoyo.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,6 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+#theme: landscape
 theme: butterfly
 
 # Deployment
